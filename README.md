@@ -3,5 +3,6 @@
 
 
 
-<img width="1500" height="150" alt="Page 2" src="https://github.com/user-attachments/assets/93f35ddc-cf54-4637-a798-93e8e03479cf" />
+<img width="1500" height="150" alt="2гит" src="https://github.com/user-attachments/assets/6cf94c9c-dc99-4c0f-8564-ae6e73efa798" />
+
 
