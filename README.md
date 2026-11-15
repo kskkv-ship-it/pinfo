@@ -1,4 +1,4 @@
-<img width="1699" height="497" alt="1гит" src="https://github.com/user-attachments/assets/0b7ee83a-481f-4ff3-a7b2-015478004376" />
+<img width="1500" height="299" alt="1гит" src="https://github.com/user-attachments/assets/8ea15d77-1f7b-4303-807c-a254935022f9" />
 
 
 
